@@ -1,6 +1,6 @@
-X=20
-Y=20
-r=2
+X=600
+Y=600
+r=25
 
 function setup() {
   createCanvas(X, Y);
